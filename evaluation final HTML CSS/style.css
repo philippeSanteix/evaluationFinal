@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+}
+
+
+
+header {
+    background-image: url(background.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    height: 30vh;
+    width: 100%; 
+
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+
+
+
+
+
+    .texteblanc {color: white;
+    text-align: center;}
+
+
+    #photoagence{
+        width:50px
+    }
